@@ -6,7 +6,7 @@ En mi tiempo libre me gusta editar videos y mirar contenido relacionado a tecono
 # Arranqué a usar Blender a principio de año y ya tengo casi 600 horas...
 ## Esto no es un chiste, es un **llamado de auxilio**
 
-:skull: :skull: :skull:
+:skull: :skull: :skull:\
 ![durísimo...](img/Foto_Blender.jpg)
 
 Mi instrucción favorita del manual de intel es (No voy a mentir, aun no lo leí)...
